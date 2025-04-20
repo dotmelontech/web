@@ -693,7 +693,7 @@ export default function Home() {
                       </div>
                       <div className="ml-4">
                         <h4 className="text-lg font-medium text-[#1a3a1a]">Address</h4>
-                        <p className="text-gray-600 mt-1">123 Innovation Street, Tech City, TC 12345</p>
+                        <p className="text-gray-600 mt-1">Horamavu,Bangalore,India</p>
                       </div>
                     </div>
                     <div className="flex items-start">
@@ -725,7 +725,7 @@ export default function Home() {
                       </div>
                       <div className="ml-4">
                         <h4 className="text-lg font-medium text-[#1a3a1a]">Phone</h4>
-                        <p className="text-gray-600 mt-1">+1 (555) 123-4567</p>
+                        <p className="text-gray-600 mt-1">+91 9747234620</p>
                       </div>
                     </div>
                     <div className="flex items-start">
