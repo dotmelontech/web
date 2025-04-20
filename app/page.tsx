@@ -723,10 +723,6 @@ export default function Home() {
                           />
                         </svg>
                       </div>
-                      <div className="ml-4">
-                        <h4 className="text-lg font-medium text-[#1a3a1a]">Phone</h4>
-                        <p className="text-gray-600 mt-1">+91 9747234620</p>
-                      </div>
                     </div>
                     <div className="flex items-start">
                       <div className="flex-shrink-0 mt-1">
