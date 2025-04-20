@@ -725,16 +725,6 @@ export default function Home() {
                       </div>
                     </div>
                     <div className="flex items-start">
-                      <div className="flex-shrink-0 mt-1">
-                        <svg className="h-6 w-6 text-[#ff4d2e]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
-                          />
-                        </svg>
-                      </div>
                       <div className="ml-4">
                         <h4 className="text-lg font-medium text-[#1a3a1a]">Business Hours</h4>
                         <p className="text-gray-600 mt-1">Monday - Friday: 9am - 5pm</p>
