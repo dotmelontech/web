@@ -287,7 +287,7 @@ export default function Home() {
                   transition={{ duration: 0.5 }}
                 >
                   <h1 className="text-5xl md:text-6xl font-bold text-[#1a3a1a] mb-4 leading-tight">
-                    Juicy Meets <br /> Genius{" "}
+                    Juicy meeting <br /> Genius{" "}
                     <motion.span
                       animate={{
                         rotate: [0, 10, 0, 10, 0],
